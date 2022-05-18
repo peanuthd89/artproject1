@@ -1,8 +1,6 @@
-import React from 'react';
-
 /**
  * Create/export a component called Title which uses this static HTML as the template:
- * 
+ *
  * <div id="title">
  *   <h1>
  *     The Art Collector
